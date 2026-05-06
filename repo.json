@@ -1,0 +1,9 @@
+{
+  "name": "Kraptor SkyStream Repository | @kraptor123",
+  "id": "com.kraptor.skystream",
+  "description": "test",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/xjqjwsky/tst/refs/heads/main/plugins.json"
+  ]
+}
